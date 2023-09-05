@@ -26,7 +26,7 @@
   }
 
   nav a{
-    font-size: 10px;
+    font-size: 15px;
   }
 
   header .show-menu{
@@ -80,8 +80,8 @@ nav ul{
 @media only screen and (max-width: 420px) {
   /* hide the slideshow image */
   .slideshow img {
-   width: 200px;
-   height: 200px;
+   width:260px;
+   height: 260px;
   }
 
   /* reduce the size of the h1 and p elements further */
@@ -90,7 +90,7 @@ nav ul{
   }
 
   .main-content p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 
@@ -148,7 +148,7 @@ nav ul{
 
 @media only screen and (max-width: 360px) {
   #services h3{
-    margin-left: 112px;
+    margin-left: 120px;
 
   }
 }
